@@ -1,4 +1,14 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SilentSliver&include_all_commits=true&show_icons=true&hide_title=tru&hide_border=true" />
+
 ### Hi there 👋
+
+There are my repos, might not helpful to whole world.
+
+But I still hope these could make any sence in any part for you.
+
+这些是我的绵薄之力，可能不足以改变世界
+
+但仍希望能在某方面对屏幕前的你有点意义
 
 <!--
 **SilentSliver/SilentSliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
